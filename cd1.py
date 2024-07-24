@@ -24,7 +24,7 @@ pwd=input("PASSWORD:")
 hour=int(datetime.datetime.now().hour)
 def play_on_youtube(command):
     pywhatkit.playonyt(command)
-if pwd=='kartick14':
+if pwd=='JARVIS':
     if hour>=0 and hour<12:
         a2.say("Hello Sir, Good Morning. JARVIS at your service. Importing all prefrences from home interface, system is now fully operational.")
         a2.runAndWait()
