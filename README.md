@@ -48,15 +48,21 @@ python jarvis.py
 
 # Commands
 
-Open Google: Opens Google in the default web browser.
-Open YouTube: Opens YouTube in the default web browser.
-Open Instagram: Opens Instagram in the default web browser.
-What's the time: Retrieves the current time and speaks it out.
-Play [song name] on YouTube: Plays the requested song on YouTube.
-Exit: Shuts down JARVIS.
+**Open Google:** Opens Google in the default web browser.
+
+**Open YouTube:** Opens YouTube in the default web browser.
+
+**Open Instagram:** Opens Instagram in the default web browser.
+
+**What's the time:** Retrieves the current time and speaks it out.
+
+**Play [song name] on YouTube:** Plays the requested song on YouTube.
+
+**Exit:** Shuts down JARVIS.
 
 # Customization
 Password: Change the password in the script (pwd='your_password') for security.
+
 Custom Responses: Modify speech responses in the script for personalized interaction.
 
 # Contributing
@@ -64,4 +70,5 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 # Acknowledgments
 1. Inspired by the JARVIS AI from the Marvel Cinematic Universe.
+
 2. Built using Python and various open-source libraries.
