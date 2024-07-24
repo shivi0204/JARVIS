@@ -23,3 +23,16 @@ Install these dependencies using pip:
 
 ```bash
 pip install speech_recognition pyttsx3 numpy pywhatkit
+
+## Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your_username/jarvis-python.git
+cd jarvis-python
+
+
+2. Run the jarvis.py script:
+```bash
+python jarvis.py
