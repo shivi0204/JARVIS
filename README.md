@@ -39,3 +39,9 @@ cd jarvis-python
 ```bash
 python jarvis.py
 ```
+
+3. JARVIS will prompt you for a password. Enter kartick14 to access full functionality.
+
+4. Speak commands into your microphone prefixed with "JARVIS" (e.g., "JARVIS, open YouTube").
+
+5. Enjoy interacting with JARVIS!
