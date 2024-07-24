@@ -45,3 +45,23 @@ python jarvis.py
 4. Speak commands into your microphone prefixed with "JARVIS" (e.g., "JARVIS, open YouTube").
 
 5. Enjoy interacting with JARVIS!
+
+# Commands
+
+Open Google: Opens Google in the default web browser.
+Open YouTube: Opens YouTube in the default web browser.
+Open Instagram: Opens Instagram in the default web browser.
+What's the time: Retrieves the current time and speaks it out.
+Play [song name] on YouTube: Plays the requested song on YouTube.
+Exit: Shuts down JARVIS.
+
+# Customization
+Password: Change the password in the script (pwd='your_password') for security.
+Custom Responses: Modify speech responses in the script for personalized interaction.
+
+# Contributing
+Contributions are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request.
+
+# Acknowledgments
+1. Inspired by the JARVIS AI from the Marvel Cinematic Universe.
+2. Built using Python and various open-source libraries.
